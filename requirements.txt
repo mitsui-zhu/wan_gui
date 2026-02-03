@@ -1,0 +1,4 @@
+PySide6==6.7.2
+requests==2.32.3
+oss2==2.18.6
+python-dateutil==2.9.0.post0
