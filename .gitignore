@@ -1,0 +1,24 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+venv/
+ENV/
+env/
+
+# pyinstaller
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+# logs / runs
+WanImageRuns/
+WanVideoRuns/
+*.log
